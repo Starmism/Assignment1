@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.20)
+project(Assignment1 C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(one one.c)
+add_executable(two two.c)
+add_executable(three three.c)
+add_executable(four four.c)
+add_executable(five five.c)
+add_executable(six six.c)
+add_executable(seven seven.c)
+add_executable(eight eight.c)
+add_executable(nine nine.c)
+add_executable(ten ten.c)
+add_executable(eleven eleven.c)
+add_executable(twelve twelve.c)
+add_executable(thirteen thirteen.c)
